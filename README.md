@@ -206,10 +206,7 @@ Senior Faculty (Full Professors)
 ---
 
 ## 👨‍🔬 Author
-
 Dr. Walid Al-Shaar  
-Researcher 
-
 ---
 
 ## 📚 Citation
